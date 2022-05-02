@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ContaCorrenteTeste" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-02T14:39:59" hostname="DESKTOP-C21JD9K" time="0.099">
+  <properties/>
+  <testcase name="sacarSaldo0()" classname="ContaCorrenteTeste" time="0.099"/>
+  <system-out><![CDATA[Saldo insuficiente
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
